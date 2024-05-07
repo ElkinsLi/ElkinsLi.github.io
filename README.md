@@ -3,4 +3,4 @@
 # useful links 
 
 - [My Examples](https://github.com/ElkinsLi/my-resources/blob/main/Example%20directory)
-- [Intersting Module](modules/13_Presenting_Data/assingment 13.Rmd)
+- [Intersting Module](https://github.com/ElkinsLi/CM515-course-2024/blob/06eaa975029a3b1cd5a419dfd53af00df5fbb9a9/modules/13_Presenting_Data/assingment%2013.Rmd)
